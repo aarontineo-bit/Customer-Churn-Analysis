@@ -51,7 +51,7 @@ The analysis focuses on customer contracts, internet services, tenure, payment m
 
 ## Dashboard
 
-![Customer Churn Dashboard](1788477651946.jpeg)
+![Customer Churn Dashboard](customer_churn_dashboard.png)
 
 ## Project Files
 
