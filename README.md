@@ -56,8 +56,9 @@ The analysis focuses on customer contracts, internet services, tenure, payment m
 ## Project Files
 
 - `telco_churn_cleaned.csv` — Cleaned customer dataset
-- `Churn Analysis.sql.txt` — SQL queries used to analyze customer churn
-- `1788477651946.jpeg` — Power BI dashboard screenshot
+- `Churn Analysis.sql` — SQL queries used to analyze customer churn
+- `Churn Dashboard.png` — Power BI dashboard screenshot
+- `README.md` — Project documentation, findings, and recommendations
 
 ## Conclusion
 
